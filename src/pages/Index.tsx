@@ -3,6 +3,7 @@ import React from 'react';
 import Hero from '@/components/Hero';
 import FeatureHighlights from '@/components/FeatureHighlights';
 import ProductShowcase from '@/components/ProductShowcase';
+import WorksheetGallery from '@/components/WorksheetGallery';
 import Benefits from '@/components/Benefits';
 import ProblemSolution from '@/components/ProblemSolution';
 import SocialProof from '@/components/SocialProof';
@@ -17,6 +18,7 @@ const Index = () => {
       <Hero />
       <FeatureHighlights />
       <ProductShowcase />
+      <WorksheetGallery />
       <Benefits />
       <ProblemSolution />
       <SocialProof />
